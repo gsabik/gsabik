@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React JS and Astro**
 
+- 💬 Ask me about **JavaScript, React JS and Astro**
+
 - 📫 How to reach me **guidosabik1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
