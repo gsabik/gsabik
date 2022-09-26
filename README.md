@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabik&label=Profile%20views&color=0e75b6&style=flat" alt="gsabik" /> </p>
 
-- 🌱 I’m currently learning **React JS and Astro**
+- 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **JavaScript, React JS and Astro**
+- 💬 Ask me about **JavaScript and React JS**
 
 - 📫 How to reach me **guidosabik1@gmail.com**
 
